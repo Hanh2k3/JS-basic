@@ -23,3 +23,8 @@ document.getElementById("btnSubmit").onclick = function() {
    
 
 }
+
+// template literal 
+let firstName= 'Hanh'
+let text = `My name is ${firstName}`;
+console.log(text); 
